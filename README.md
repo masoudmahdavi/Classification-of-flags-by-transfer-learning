@@ -1,1 +1,1 @@
-# Classification-of-flags-by-transfer-learning
+# Classification of flags by transfer learning
